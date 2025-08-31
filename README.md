@@ -1,5 +1,7 @@
 # DMart-Customer-Segmentation-project
 
+Explain in step by step :- https://docs.google.com/document/d/11hKGu4B-OQaRIY5jGQede4YzJeuAdhR9W8bREwrVnik/edit?usp=sharing
+
 📂 Suggested GitHub Repo Structure
 <img width="1076" height="776" alt="image" src="https://github.com/user-attachments/assets/69b212be-1a5e-4ae9-be6c-3d1818122eb4" />
 
